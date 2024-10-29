@@ -70,6 +70,10 @@ If you can't get this to work, see the [Troubleshooting](https://reactnative.dev
 
 # Learn More
 
+# output
+![Crud Sederhana](https://github.com/user-attachments/assets/bab1230e-b487-474f-b7c4-b203aa4dcb48)
+
+
 To learn more about React Native, take a look at the following resources:
 
 - [React Native Website](https://reactnative.dev) - learn more about React Native.
